@@ -21,3 +21,12 @@ Specially, **Infi-MMR**,  a curriculum-based progressive rule-based RL training 
 - **Cross-Modal Reasoning Adaptation** utilizes caption-augmented multimodal data to facilitate the progressive transfer of reasoning skills to multimodal contexts.
 - **Multimodal Reasoning Enhancement**  employs curated, caption-free multimodal data to mitigate linguistic biases and promote robust cross-modal reasoning.
 
+<div align="center">
+  <img src="images/mmr1_framework_updated.png" width="70%" alt="Method Overview">
+  <p><i>Infi-MMR training framework</i></p>
+</div>
+
+
+## 🚀 Updates
+- ***`2025/06/03`*** [Model weights](https://huggingface.co/Reallm-Labs/Infi-MMR-3B) have been uploaded to Hugging Face.
+- ***`2025/05/30`*** [Our preprint](https://arxiv.org/abs/2505.23091) has been published on arXiv.
