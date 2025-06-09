@@ -4,7 +4,7 @@ Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforceme
 
 <p align="center">
   <a href="https://arxiv.org/abs/2505.23091"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv Paper"></a>
-  <a href="https://huggingface.co/papers/2504.14239"><img src="https://img.shields.io/badge/🤗%20HuggingFace-Daily%20Papers-ff9800?style=flat" alt="Hugging Face Paper"></a>
+  <a href="https://huggingface.co/papers/2505.23091"><img src="https://img.shields.io/badge/🤗%20HuggingFace-Daily%20Papers-ff9800?style=flat" alt="Hugging Face Paper"></a>
   <a href="https://huggingface.co/Reallm-Labs/Infi-MMR-3B"><img src="https://img.shields.io/badge/🤗%20HuggingFace-Models-ff9800?style=flat" alt="Hugging Face Model"></a>
 </p>
 
