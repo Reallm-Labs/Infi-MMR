@@ -22,11 +22,25 @@ Specially, **Infi-MMR**,  a curriculum-based progressive rule-based RL training 
 - **Multimodal Reasoning Enhancement**  employs curated, caption-free multimodal data to mitigate linguistic biases and promote robust cross-modal reasoning.
 
 <div align="center">
-  <img src="images/mmr1_framework_updated.png" width="70%" alt="Method Overview">
+  <img src="images/mmr1_framework_update.png" width="70%" alt="Method Overview">
   <p><i>Infi-MMR training framework</i></p>
 </div>
 
 
 ## 🚀 Updates
-- ***`2025/06/03`*** [Model weights](https://huggingface.co/Reallm-Labs/Infi-MMR-3B) have been uploaded to Hugging Face.
-- ***`2025/05/30`*** [Our preprint](https://arxiv.org/abs/2505.23091) has been published on arXiv.
+- ***`2025/06/03`*** [Model Weights](https://huggingface.co/Reallm-Labs/Infi-MMR-3B) have been uploaded to Hugging Face.
+- ***`2025/05/30`*** [Our Preprint](https://arxiv.org/abs/2505.23091) has been published on arXiv.
+
+
+## 📚 Citation Information
+
+If you find this work useful, citations to the following papers are welcome:
+
+```bibtex
+@article{liu2025infimmr,
+  title={Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models},
+  author={Zeyu Liu and Yuhang Liu and Guanghao Zhu and Congkai Xie and Zhen Li and Jianbo Yuan and Xinyao Wang and Qing Li and Shing-Chi Cheung and Shengyu Zhang and Fei Wu and Hongxia Yang},
+  journal={arXiv preprint arXiv:2505.23091},
+  year={2025}
+}
+```
